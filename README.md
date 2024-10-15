@@ -1,4 +1,4 @@
-# Ajax-Example
+# Ajax-Demo
 
 This project demonstrates how to use AJAX (Asynchronous JavaScript and XML) to fetch and display data from an API. In this example, we retrieve random dog images using the [Dog CEO API](https://dog.ceo/dog-api/).
 
@@ -29,7 +29,7 @@ This project demonstrates how to use AJAX (Asynchronous JavaScript and XML) to f
 
 ## Visual Design
 
-![Image](Image.png)
+![Index](Index.png)
 
 ## Demo
 
